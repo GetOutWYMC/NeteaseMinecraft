@@ -1,0 +1,1 @@
+https://github.com/txgs888/NeteaseMinecraft/raw/master/modid-1.0.jar,,,mods/neteasechat.jar
